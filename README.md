@@ -7,7 +7,7 @@
 - 🤖 Discord Bots
 - 📜 Roblox scripts
 
-#### My specialty languages
+### My specialty languages 🦾
 <p align="">
   <img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript"/>
   <img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua"/>
