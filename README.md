@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🐱 Freelance developer
-- 📫 How to reach me: `Stefanuk12#5820` on Discord
+- 📫 How to reach me: `@stefanuk12` on Discord
   
 ### What kind of things I develop 💻
 - 🌚 Backend
